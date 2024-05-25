@@ -1,0 +1,14 @@
+E:\Codegym\c# start\systemtime\obj\Debug\net8.0\systemtime.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codegym\c# start\systemtime\obj\Debug\net8.0\systemtime.AssemblyInfoInputs.cache
+E:\Codegym\c# start\systemtime\obj\Debug\net8.0\systemtime.AssemblyInfo.cs
+E:\Codegym\c# start\systemtime\obj\Debug\net8.0\systemtime.csproj.CoreCompileInputs.cache
+E:\Codegym\c# start\systemtime\bin\Debug\net8.0\systemtime.exe
+E:\Codegym\c# start\systemtime\bin\Debug\net8.0\systemtime.deps.json
+E:\Codegym\c# start\systemtime\bin\Debug\net8.0\systemtime.runtimeconfig.json
+E:\Codegym\c# start\systemtime\bin\Debug\net8.0\systemtime.dll
+E:\Codegym\c# start\systemtime\bin\Debug\net8.0\systemtime.pdb
+E:\Codegym\c# start\systemtime\obj\Debug\net8.0\systemtime.dll
+E:\Codegym\c# start\systemtime\obj\Debug\net8.0\refint\systemtime.dll
+E:\Codegym\c# start\systemtime\obj\Debug\net8.0\systemtime.pdb
+E:\Codegym\c# start\systemtime\obj\Debug\net8.0\systemtime.genruntimeconfig.cache
+E:\Codegym\c# start\systemtime\obj\Debug\net8.0\ref\systemtime.dll
